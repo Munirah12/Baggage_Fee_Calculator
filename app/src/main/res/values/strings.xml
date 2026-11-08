@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baggage Fee Calculator</string>
+    <string name="action_about">About</string>
+    <string name="action_home">Calculator Main</string>
+</resources>
